@@ -6,5 +6,5 @@
 ## Дополнительные ссылки:
 [EMGUCV. Захват видео с веб камеры С# Windows Forms. Урок 5](https://www.youtube.com/watch?v=NyRRkI8MSb4)  
 ## Используемые библиотеки:
-EMGU CV
-Open CV
+EMGU CV  
+Open CV  
