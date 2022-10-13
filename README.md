@@ -8,3 +8,5 @@
 ## Используемые библиотеки:
 EMGU CV  
 Open CV  
+  
+DirectShowLib  
