@@ -5,3 +5,6 @@
 [Использование машинного зрения для корректировки управляющей программы обработки на станках с ЧПУ](https://www.researchgate.net/publication/340444124_Ispolzovanie_masinnogo_zrenia_dla_korrektirovki_upravlausej_programmy_obrabotki_na_stankah_s_CPU)  
 ## Дополнительные ссылки:
 [EMGUCV. Захват видео с веб камеры С# Windows Forms. Урок 5](https://www.youtube.com/watch?v=NyRRkI8MSb4)  
+## Используемые библиотеки:
+EMGU CV
+Open CV
