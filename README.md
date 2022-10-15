@@ -7,6 +7,8 @@
 [EMGUCV. Захват видео с веб камеры С# Windows Forms. Урок 5](https://www.youtube.com/watch?v=NyRRkI8MSb4) (YouTube нарушает законодательство РФ)  
 [Computer Vision and OpenCV Tutorial in C++](https://www.youtube.com/playlist?list=PLkmvobsnE0GHMmTF7GTzJnCISue1L9fJn) (YouTube нарушает законодательство РФ)  
 [Starting with Emgu CV](https://social.technet.microsoft.com/wiki/contents/articles/15385.starting-with-emgu-cv.aspx)  
+[НЕЙРОСЕТЬ своими руками за 10 минут на Python](https://www.youtube.com/watch?v=WFYxpi3O950) (YouTube нарушает законодательство РФ)  
+[Нейросеть. Самый детальный гайд](https://www.youtube.com/watch?v=-EfamBD3ays) (YouTube нарушает законодательство РФ)  
 ## Используемые библиотеки:
 EMGU CV  
 Open CV  
