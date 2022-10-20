@@ -12,8 +12,9 @@
 [Starting with Emgu CV](https://social.technet.microsoft.com/wiki/contents/articles/15385.starting-with-emgu-cv.aspx)  
 [НЕЙРОСЕТЬ своими руками за 10 минут на Python](https://www.youtube.com/watch?v=WFYxpi3O950) (YouTube нарушает законодательство РФ)  
 [Нейросеть. Самый детальный гайд](https://www.youtube.com/watch?v=-EfamBD3ays) (YouTube нарушает законодательство РФ)  
+[Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (YouTube нарушает законодательство РФ)     
 ## Используемые библиотеки:
-EMGU CV  
+EMGU CV - спорно     
 Open CV  
   
-DirectShowLib  
+DirectShowLib - спорно
